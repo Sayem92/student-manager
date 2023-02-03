@@ -110,7 +110,6 @@ export const AddStudent = () => {
         console.log(formData)
     }
 
-    // sx={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 2 }}
 
     return (
         <Box margin={"40px"}>
